@@ -30,35 +30,37 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/_ctzhid'
+global . sig  =  '_'
 global.sgh = '-' //github
-global.sgc = 'https://chat.whatsapp.com/Iu9I1k8FnXW1sXT41XIF50' //group whatsapp
-global.sdc = '-' //discord
-global.snh = 'https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow' // my youtube channel
+global . sgc  =  '_'  // grup whatsapp
+global . sdc  =  '-' //discord
+global.snh = '_' // my youtube channel
 
 /*============== PAYMENT ==============*/
-global.pdana = '08XXXXXXXXXX' //dana
-global.povo = '08XXXXXXXXXX' //ovo
-global.pgopay = '08XXXXXXXXXX' //gopay
-global.plinkaja = '08XXXXXXXXXX' //link aja
-global.ppulsa = '08XXXXXXXXXX' //telkomsel
-global.ppulsa2 = '08XXXXXXXXXX' // kalau ada kartu lain isi aja
-global.psaweria = 'https://saweria.com/mrw4h1d'
+global.pdana = '08177887696' //dana
+global.povo = '081770887696' //ovo
+global . pgopay   =   '081770887696'   //gopay0887696
+global . plinkaja   =   '_'  //link aja
+global.ppulsa = '081770887696' //telkomsel
+global . ppulsa2  =  '''0'081770887696'kalau ada kartu lain isi aja
+global . psaweria  =  'https://saweria.com/mrw4h1d'
+kami
+/*============== NOMOR =============*/
+global . nomorbot  =  '62 859-2603-8824'
+global.nomorown = '6281770887696'
 
-/*============== NOMOR ==============*/
-global.nomorbot = '628XXXXXXXXXX'
-global.nomorown = '628XXXXXXXXXX'
-global.namebot = 'WH-MODS-BOT-V1'
-global.nameown = 'WH MODS DEV'
+
+global . namebot  =  'boy botz'
+globanameown = 'ARIF GANZZ82'
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
-global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID 357d3c85079c4e0818731e6b
+global.lolkey = 'ff85d67c-ca67-44b6-8cbe-9bb4c16020e4' // PUNYA WAHID 357d3c85079c4e0818731e6b
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['628XXXXXXXXXX', 'WH MODS DEV', true],
+  ['628XXXXXXXXXX', 'ARIF GANZZ82', true],
   ['-', 'isi_kalau_ada', true],
   ['-', 'isi_kalau_ada', true],
   ['-', 'isi_kalau_ada', true] //Ganti jd nomormu sama Namamu
@@ -109,13 +111,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 WH-MODS-BOT-V1 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘WH-MODS-BOT-V1 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ WH-MODS-BOT-V1 '
+global.wm = '                「 ARIF GANZZ82 」' 
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ARIF GANZZ82 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ ARIF GANZZ '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By WH-MODS-DEV`
-global.author = '                「 WH-MODS-BOT-V1  あ」'
+global.titlebot = `⫹⫺ WhatsApp Bot | By arifpratama82`
+global.author = '                「 ARIF GANZZ82 あ」'
 
 
 /*============== LOGO ==============*/
